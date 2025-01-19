@@ -45,9 +45,7 @@ This project focuses on the detailed study and analysis of the SARS-CoV-2 genome
 - Detailed classification of variants through evolutionary analysis.  
 - Structural prediction of the SARS-CoV-2 spike protein and comparison with related structures.  
 
----
 
-## How to Run the Project
-1. Install the required tools and libraries:
-   ```bash
-   pip install numpy biopython matplotlib
+
+## Credentials
+- **Coursera Credential:** [Bioinformatics Capstone: Big Data in Biology](https://www.coursera.org/account/accomplishments/verify/JSQ20OS4CAQO)
